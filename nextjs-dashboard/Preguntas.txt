@@ -10,6 +10,8 @@ Para empaquetar la aplicación
 scripts: Para precargar el funcionamiento de una base de datos
 public: Toda la multimedia (audio, imágenes y videos) que llamaremos desde la página.
 app: Rutas de las pestañas en el sitio web. Para anidar y envolver.
+    ui: Componentes ya creados
+    lib: Herramientas y utilidades: Tipos / Conexiones.
 6 ¿Que es un CCS MODULE y como se usan? 
 
 7 ¿Que hace el componente  Layout.tsx ? 
