@@ -4,8 +4,12 @@ export default function RootLayout({
   children: React.ReactNode;
 }) {
   return (
-    <html lang="en">
-      <body>{children}</body>
+    <html lang="es">
+      <body>
+        <div style = {{border: '1px solid #000'}}>
+          {children}
+        </div>
+      </body>
     </html>
   );
 }

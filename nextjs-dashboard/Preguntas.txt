@@ -3,11 +3,13 @@ Porque puede hacer cualquier cosa con React. Te da características con las cual
 2 ¿Cuál es el comando exacto con npx para inicializar un proyecto de Next.js asegurando usar la última versión?
 npx create next-app@latest
 3 ¿Cuál es el comando utilizado para levantar el entorno de desarrollo y en qué puerto se ejecuta por defecto? 
-
+npm run dev y el puerto 3000
 4 ¿Qué función cumple el comando npm run build en un proyecto de Next.js? 
-
+Para empaquetar la aplicación
 5 Describe para que sirven las carpetas, public y app
-
+scripts: Para precargar el funcionamiento de una base de datos
+public: Toda la multimedia (audio, imágenes y videos) que llamaremos desde la página.
+app: Rutas de las pestañas en el sitio web. Para anidar y envolver.
 6 ¿Que es un CCS MODULE y como se usan? 
 
 7 ¿Que hace el componente  Layout.tsx ? 
