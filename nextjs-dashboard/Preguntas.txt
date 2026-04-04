@@ -19,7 +19,10 @@ app: Rutas de las pestañas en el sitio web. Para anidar y envolver.
 8 ¿Que es el enrutamiento ?
 
 9 ¿Cual es la diferencia entre Image e img?
-
+img es menos eficiente que Image. img es una etiqueta por default en HTML, Image hay que importarlo
+Además, Image requiere un width para "apartar" el espacio.
+Image optimiza el paso de la imagen y cambia el formato a webp
+Image tiene un costo
 10 ¿Que es el Lazy Load?
-
+Si la imagen no aparece, no la carga. Carga lo necesario.
 11 Cual es el funcionamiento del siguiente codigo, en que momento se muestra cada imagen
