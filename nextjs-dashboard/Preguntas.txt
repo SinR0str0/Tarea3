@@ -26,3 +26,19 @@ Image tiene un costo
 10 ¿Que es el Lazy Load?
 Si la imagen no aparece, no la carga. Carga lo necesario.
 11 Cual es el funcionamiento del siguiente codigo, en que momento se muestra cada imagen
+Hace que se muestren dos imagenes diferentes según el tipo de dispositivo.
+Si es una computadora: La Imagen que se muestra es la primera.
+Si es un celular: La imagen cargada es la segunda.
+12 ¿Como funciona el enrutamiento en Next JS  ? 
+
+13 ¿Que es una ruta en el contexto web y donde las hemos visto en la clase ? 
+
+14 ¿Que arrojo a MiduDev el localhost:300/dashboard, donde hemos visto esos errores en la clase ? 
+
+15 ¿Que arrojo a MiduDev el localhost:300/dashboard, donde hemos visto esos errores en la clase ? 
+
+16 ¿Que  es el File System Routing?
+
+17 ¿Como funcionan las rutas anidadas?
+
+18 ¿Investiga por que es necesario esto ?

@@ -9,7 +9,12 @@ export default function RootLayout({
   return (
     <html lang="es">
       <body className={`${montserrat.className} antialiased`}>
-          {children}
+        Esto es parte del Layout
+        {children}
+
+        <footer className='py-10 flex justify-center'>
+          Hecho por la gente de Vercel.
+        </footer>
       </body>
     </html>
   );
